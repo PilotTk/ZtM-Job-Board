@@ -6090,5 +6090,21 @@
 			"state": "PA",
 			"country": "USA"
 		}
-	}
+	},
+	{
+    	"id": 381,
+    	"name": "Taavi Kirss",
+    	"img": "",
+   		"links": {
+      		"website": "",
+      		"linkedin": "https://www.linkedin.com/in/taavi-kirss-325a6998/",
+      		"github": "https://github.com/PilotTk"
+    },
+    	"jobTitle": "First Officer",
+    	"location": {
+      		"city": "Tallinn",
+      		"state": "",
+      		"country": "Estonia"
+    	}
+  	}
 ]
